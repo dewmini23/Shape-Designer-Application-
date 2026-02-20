@@ -1,0 +1,15 @@
+# Backend
+backend/target/
+backend/*.log
+backend/.idea/
+backend/.vscode/
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/npm-debug.log*
+
+# Root Ide
+.idea/
+.vscode/
